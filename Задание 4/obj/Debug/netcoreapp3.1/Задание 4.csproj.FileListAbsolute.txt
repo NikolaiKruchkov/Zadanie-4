@@ -1,0 +1,14 @@
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание циклы\Задание 4\Задание 4\bin\Debug\netcoreapp3.1\Задание 4.exe
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание циклы\Задание 4\Задание 4\bin\Debug\netcoreapp3.1\Задание 4.deps.json
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание циклы\Задание 4\Задание 4\bin\Debug\netcoreapp3.1\Задание 4.runtimeconfig.json
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание циклы\Задание 4\Задание 4\bin\Debug\netcoreapp3.1\Задание 4.runtimeconfig.dev.json
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание циклы\Задание 4\Задание 4\bin\Debug\netcoreapp3.1\Задание 4.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание циклы\Задание 4\Задание 4\bin\Debug\netcoreapp3.1\Задание 4.pdb
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание циклы\Задание 4\Задание 4\obj\Debug\netcoreapp3.1\Задание 4.csproj.AssemblyReference.cache
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание циклы\Задание 4\Задание 4\obj\Debug\netcoreapp3.1\Задание 4.GeneratedMSBuildEditorConfig.editorconfig
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание циклы\Задание 4\Задание 4\obj\Debug\netcoreapp3.1\Задание 4.AssemblyInfoInputs.cache
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание циклы\Задание 4\Задание 4\obj\Debug\netcoreapp3.1\Задание 4.AssemblyInfo.cs
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание циклы\Задание 4\Задание 4\obj\Debug\netcoreapp3.1\Задание 4.csproj.CoreCompileInputs.cache
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание циклы\Задание 4\Задание 4\obj\Debug\netcoreapp3.1\Задание 4.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание циклы\Задание 4\Задание 4\obj\Debug\netcoreapp3.1\Задание 4.pdb
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание циклы\Задание 4\Задание 4\obj\Debug\netcoreapp3.1\Задание 4.genruntimeconfig.cache
